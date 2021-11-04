@@ -86,9 +86,10 @@ body{
 
 .F1{
   color: Red;
+  font-weight: bold;
   text-align: center;
-  font-size: 30px;
-  font: arial;
+  font-size: 35px;
+  font: century;
   float: left;
   margin-left: 30px;
   position: absolute;
